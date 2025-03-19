@@ -54,7 +54,7 @@ const Navbar: React.FC<NavbarProps> = ({ transparent = true }) => {
         <div className="max-w-7xl mx-auto flex items-center justify-between">
           <div className="flex items-center">
             <Link to="/" className="font-display text-xl font-bold tracking-tight">
-              <span className="text-primary">Dynamic</span>Transport
+              <span className="text-primary">Transporte</span>Dinámico
             </Link>
           </div>
           
@@ -95,7 +95,7 @@ const Navbar: React.FC<NavbarProps> = ({ transparent = true }) => {
         <div className="p-6">
           <div className="flex items-center justify-between mb-8">
             <Link to="/" className="font-display text-xl font-bold">
-              <span className="text-primary">Dynamic</span>Transport
+              <span className="text-primary">Transporte</span>Dinámico
             </Link>
             
             <Button variant="ghost" size="icon" onClick={toggleMobileMenu}>

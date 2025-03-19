@@ -368,8 +368,10 @@ const Index = () => {
             <AnimatedElement animation="scale-in" delay={100}>
               <div className="overflow-hidden rounded-xl group relative">
                 <div className="aspect-[4/3] overflow-hidden">
+
+              
                   <img
-                    src="https://images.unsplash.com/photo-1583937443566-6fe1a1c9150b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+                    src="https://quasar.com.pe/wp-content/uploads/2024/07/alquiler-de-camionetas-4x4-2.jpg"
                     alt="Camioneta 4x4"
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                   />
@@ -388,8 +390,10 @@ const Index = () => {
             <AnimatedElement animation="scale-in" delay={200}>
               <div className="overflow-hidden rounded-xl group relative">
                 <div className="aspect-[4/3] overflow-hidden">
+
+               
                   <img
-                    src="https://images.unsplash.com/photo-1545623703-583dd2364bbd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+                    src="https://digna.seg.ar/_assets/1967600896.76a65d1e_26RmVe.webp"
                     alt="Minibuses"
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                   />
@@ -409,7 +413,7 @@ const Index = () => {
               <div className="overflow-hidden rounded-xl group relative">
                 <div className="aspect-[4/3] overflow-hidden">
                   <img
-                    src="https://images.unsplash.com/photo-1577032064941-9b7d15ad1537?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU3ReVKN9QttY_Qgj1hdtzgUwswNFZXxqzDItE5ePFxE4MN6Rt5f71-g_I9CXGxkAxZZU&usqp=CAU"
                     alt="Sedanes Ejecutivos"
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                   />
@@ -449,7 +453,7 @@ const Index = () => {
               <div className="overflow-hidden rounded-xl group relative">
                 <div className="aspect-[4/3] overflow-hidden">
                   <img
-                    src="https://images.unsplash.com/photo-1507470855518-770fab8aa7fd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80"
+                    src="https://h2businessnews.com/wp-content/uploads/2023/12/General-Motors-181223-c.jpg"
                     alt="Vehículos Especializados"
                     className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                   />

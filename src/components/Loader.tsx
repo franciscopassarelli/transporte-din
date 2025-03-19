@@ -20,7 +20,7 @@ const Loader: React.FC = () => {
         <div className="mb-6 flex items-center justify-center">
           <Truck className="h-8 w-8 mr-2 text-primary" />
           <span className="font-display text-2xl font-bold tracking-tight">
-            <span className="text-primary">Dynamic</span>Transport
+            <span className="text-primary">Transporte</span>Dinámico
           </span>
         </div>
         <div className="loader-spinner mx-auto"></div>

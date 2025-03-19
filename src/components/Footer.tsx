@@ -19,7 +19,7 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           <div>
             <Link to="/" className="font-display text-xl font-bold tracking-tight mb-6 inline-block">
-              <span className="text-primary">Dynamic</span>Transport
+              <span className="text-primary">Transporte</span>Dinámico
             </Link>
             <p className="text-muted-foreground mb-6 text-sm">
               Brindamos soluciones de transporte confiables y seguras para la industria minera y petrolera, 
@@ -121,7 +121,7 @@ const Footer: React.FC = () => {
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 mr-3 text-primary mt-0.5" />
                 <span className="text-muted-foreground text-sm">
-                  Av. Principal 1234, Santiago, Chile
+                  Av. Principal Buenos Aires
                 </span>
               </li>
               <li className="flex items-center">
@@ -139,7 +139,7 @@ const Footer: React.FC = () => {
                   href="mailto:info@dynamictransport.cl" 
                   className="text-muted-foreground hover:text-primary transition-colors text-sm"
                 >
-                  info@dynamictransport.cl
+                  info@transporte.com
                 </a>
               </li>
             </ul>
@@ -150,7 +150,7 @@ const Footer: React.FC = () => {
         
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-muted-foreground text-sm mb-4 md:mb-0">
-            &copy; {currentYear} Dynamic Transport. Todos los derechos reservados.
+            &copy; {currentYear} transporte dinámico. Todos los derechos reservados.
           </p>
           
           <div className="flex space-x-6">

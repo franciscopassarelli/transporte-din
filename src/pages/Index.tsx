@@ -1,7 +1,8 @@
 
 import React, { useEffect } from 'react';
 import { 
-  Truck, Bus, ShieldCheck, Clock, BarChart3, Settings, Users, Car
+  Truck, Bus, ShieldCheck, Clock, BarChart3, Settings, Users, Car,
+  MapPin, Phone, Mail
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 

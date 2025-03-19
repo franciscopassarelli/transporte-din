@@ -66,6 +66,14 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// New corporate colors
+				corporate: {
+					'navy': '#0A2342',  // Navy blue
+					'dark': '#191919',  // Near black
+					'gray': '#333333',  // Dark gray
+					'orange': '#F97316', // Accent orange
+					'yellow': '#FFC107', // Accent yellow
 				}
 			},
 			borderRadius: {

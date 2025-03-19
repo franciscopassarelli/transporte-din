@@ -1,6 +1,7 @@
 
 import React, { useEffect, useState } from 'react';
 import { cn } from '@/lib/utils';
+import { Truck } from 'lucide-react';
 
 const Loader: React.FC = () => {
   const [isLoaded, setIsLoaded] = useState(false);
@@ -16,7 +17,8 @@ const Loader: React.FC = () => {
   return (
     <div className={cn('loader', isLoaded && 'loaded')}>
       <div className="loader-content">
-        <div className="mb-6">
+        <div className="mb-6 flex items-center justify-center">
+          <Truck className="h-8 w-8 mr-2 text-primary" />
           <span className="font-display text-2xl font-bold tracking-tight">
             <span className="text-primary">Dynamic</span>Transport
           </span>

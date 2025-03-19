@@ -568,7 +568,7 @@ const Index = () => {
                     <div>
                       <h3 className="font-medium mb-1">Dirección</h3>
                       <p className="text-muted-foreground text-sm">
-                        Av. Principal 1234, Santiago, Chile
+                        Av. Principal Buenos Aires
                       </p>
                     </div>
                   </div>
@@ -588,7 +588,7 @@ const Index = () => {
                     <div>
                       <h3 className="font-medium mb-1">Email</h3>
                       <p className="text-muted-foreground text-sm">
-                        info@dynamictransport.cl
+                        info@transporte.com
                       </p>
                     </div>
                   </div>
